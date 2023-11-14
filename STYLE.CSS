@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background-color: rgb(252, 8, 240);
+}
+h1{
+  color:brown;
+}
+.copy_right_footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 6px 8px rgba(rgb(111, 0, 255), rgb(71, 116, 71), rgb(15, 15, 76), alpha);
+  color: red;
+}
+img:hover{
+  border-radius: 140px;
+}
